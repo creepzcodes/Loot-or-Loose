@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.nexomc:nexo:1.8.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.nexomc" artifactId="nexo" version="1.8.0" baseVersion="1.8.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nexomc/nexo/1.8.0/693a37dd4080af3cbb189e17c866aed0aa7bf30a/nexo-1.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

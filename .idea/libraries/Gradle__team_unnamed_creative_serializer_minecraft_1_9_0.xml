@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: team.unnamed:creative-serializer-minecraft:1.9.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="team.unnamed" artifactId="creative-serializer-minecraft" version="1.9.0" baseVersion="1.9.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/team.unnamed/creative-serializer-minecraft/1.9.0/f3d726f9ce7be5ae75aa8ffb697f66776877debe/creative-serializer-minecraft-1.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

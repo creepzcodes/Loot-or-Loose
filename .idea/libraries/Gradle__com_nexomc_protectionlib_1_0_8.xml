@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.nexomc:protectionlib:1.0.8" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.nexomc" artifactId="protectionlib" version="1.0.8" baseVersion="1.0.8" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nexomc/protectionlib/1.0.8/252e8a6d7fcde68aaf97faacdcb38eb56b70877/protectionlib-1.0.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
